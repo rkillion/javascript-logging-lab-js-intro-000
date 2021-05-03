@@ -1,3 +1,3 @@
-console.console.error("HALP!");
-console.console.log("This");
-console.console.warn("Ruh roh");
+console.error("HALP!");
+console.log("This");
+console.warn("Ruh roh");
